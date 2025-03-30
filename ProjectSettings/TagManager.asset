@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SafeGround
+  - Water
+  - Shark
+  - IceChunks
+  - GreenKey
+  - OrangeKey
+  - YellowKey
+  - Hook
+  - Checkpoint
+  - lava
+  - Obstacle
+  - Ground
+  - sand
+  - Icezone
+  - rock
+  - bird
+  - void
+  - Boss
+  - Bullet
+  - Rock
+  - Vine
+  - AntNest
+  - Plant
+  - BeeHive
+  - frog
+  - Jumppad
+  - Collectible
+  - TriggerZone
+  - Door
+  - Banana
+  - Horse
+  - SpecialRegion
+  - saw
+  - Rat
+  - Health
+  - Region1
+  - Region2
+  - Region3
+  - New tag
+  - Engine
+  - Gas
+  - Shell
+  - Wheels
+  - grenade
+  - Region4
+  - Region5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - safeGroundLayer
+  - VineLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,3 @@
+Make door opening mechanics with door key opening when boss kill
+
+Disable the bird from murdering you when you are fighting the boss becuase nobody playing is skilled enough to play like that
